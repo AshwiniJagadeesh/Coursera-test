@@ -1,8 +1,8 @@
 
 *{
   box-sizing: border-box;
-  margin:0;
-  padding: 0;
+  /*margin:0;
+  padding: 0;*/
 }
 section {
   border:1px solid black;
@@ -38,7 +38,7 @@ p {
 	background-color: #98FB98;
 }
 section{
-	 padding: 40px 15px 15px 15px;
+	 padding: 15x 15px 15px 15px;
 }
 .row {
     width: 100%;
