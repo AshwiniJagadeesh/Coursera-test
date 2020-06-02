@@ -37,9 +37,6 @@ p {
 #p3{
 	background-color: #98FB98;
 }
-section{
-	 padding: 15x 15px 15px 15px;
-}
 
 @media (min-width: 992px) {
     #section1{
