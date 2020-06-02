@@ -7,7 +7,7 @@
 section {
   border:1px solid black;
    margin-bottom: 15px;
-  background-color:#87CEFA;
+  background-color:#C0C0C0;
   font-family: Helvetica;
   color: black;
  
@@ -23,18 +23,19 @@ p {
 	color: 	;
 	 border: 1px solid black;
 	 font-size: large;
+	font-weight: bold;
 	text-align: center;
 	 float:  right;
 	 margin-left: 100%;
 }
 #p1{
-	background-color: grey;
+	background-color: #FFC0CB;
 }
 #p2{
-	background-color: grey;
+	background-color: #87CEFA;
 }
 #p3{
-	background-color: grey;
+	background-color: #98FB98;
 }
 section{
 	 padding: 40px 15px 15px 15px;
