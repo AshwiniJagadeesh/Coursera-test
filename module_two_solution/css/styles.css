@@ -50,7 +50,7 @@ p {
 	    width: 32%;
 	    margin-right: 1%;
 }
-
+/***Computer view**/
 @media (min-width: 992px) {
     #section1{
 	    width: 32%;
@@ -67,7 +67,7 @@ p {
 }
 	
 	
-*/
+
 	
 	
 
