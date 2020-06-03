@@ -11,8 +11,7 @@ section {
   font-family: Helvetica;
   color: black;
   clear: both;
-  padding: 1%;
-  float: left;
+ 
  
 }
 h1 {
@@ -43,15 +42,19 @@ p {
 #section1{
 	    width: 32%;
 	    margin-left: 1%;
+	    float: left;
 	}
     #section2{
 	    width: 32%;
 	    margin-left: 1%;
 	    margin-right: 1%;
+	    float: left;
+	    
 	}
     #section3{
 	    width: 32%;
 	    margin-right: 1%;
+	    float: right;
 }
 /***Computer view**/
 @media (min-width: 992px) {
