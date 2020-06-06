@@ -10,7 +10,7 @@ body{
 	border-radius:0;
 	padding:25px;
 }
-.navbar-brand{
+.navbar-brand h1{
 	color:maroon;
 	font-family: 'Vast Shadow', cursive;
 	font-size: 10px;
