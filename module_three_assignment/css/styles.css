@@ -17,3 +17,11 @@ body{
 	text-transform: uppercase;
 	weight: bold;
 }
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+
